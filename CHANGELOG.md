@@ -1,5 +1,12 @@
 # Changelog
 
+### [6.7.1](https://www.github.com/snakemake/snakemake/compare/v6.7.0...v6.7.1) (2021-08-13)
+
+
+### Bug Fixes
+
+* linting of remote snakefiles ([#1131](https://www.github.com/snakemake/snakemake/issues/1131)) ([2104e10](https://www.github.com/snakemake/snakemake/commit/2104e10d1d2c5e0f368e9c0fe95cc50f9d4847f1))
+
 ## [6.7.0](https://www.github.com/snakemake/snakemake/compare/v6.6.1...v6.7.0) (2021-08-12)
 
 
